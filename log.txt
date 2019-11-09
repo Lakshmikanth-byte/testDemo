@@ -1,9 +1,6 @@
 This is a log file
 
-<<<<<<< HEAD
 This is second line.
-=======
-
 This is third line.
->>>>>>> newBranch
+
 
