@@ -1,4 +1,4 @@
 This is a log file
 
-This is new command line.
+This is second line.
 
